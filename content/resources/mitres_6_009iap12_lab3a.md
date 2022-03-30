@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information regarding labs.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/res-6-009-how-to-process-analyze-and-visualize-data-january-iap-2012/5a85b1b2482129e6633ca47a06cc59d5_MITRES_6_009IAP12_lab3a.pdf
 file_type: application/pdf
+parent_uid: bf60161f-a614-ddc2-b359-59acdf14d2cb
 resourcetype: Document
 title: MITRES_6_009IAP12_lab3a.pdf
 uid: 5a85b1b2-4821-29e6-633c-a47a06cc59d5

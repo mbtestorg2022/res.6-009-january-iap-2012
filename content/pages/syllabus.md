@@ -11,7 +11,7 @@ This is our first time teaching this course, and we'll be learning as much as yo
 Prerequisites
 -------------
 
-We assume you have a working knowledge of Python (perhaps from [6.01](/courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/)) and are willing to write code. Most of the code you interact with will come with an example that you can modify. Hopefully you won't need to write too much custom code—unless you're inspired to write more!
+We assume you have a working knowledge of Python (perhaps from [6.01](/courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011)) and are willing to write code. Most of the code you interact with will come with an example that you can modify. Hopefully you won't need to write too much custom code—unless you're inspired to write more!
 
 We expect you to install several development-related Python modules, and download the datasets we will be using in the class. Instructions can be found under Day 0, in the [Lectures and Labs]({{< baseurl >}}/pages/lectures-and-labs) section.
 
